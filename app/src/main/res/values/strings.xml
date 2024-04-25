@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">0</string>
+    <string name="socre">SCORE</string>
+    <string name="steal">STEAL</string>
+    <string name="Reset_scores">RESET</string>
+
+
+</resources>
